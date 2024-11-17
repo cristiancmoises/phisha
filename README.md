@@ -1,0 +1,2 @@
+# phisha
+Automate phishing attacks
