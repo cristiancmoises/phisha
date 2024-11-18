@@ -23,11 +23,11 @@
   
   ### Custom Templates
 
-- Microsoft  
-- LinkedIn   
-- Facebook   
-- Instagram  
-- Gmail      
-- TikTok     
+- Microsoft ⌛
+- LinkedIn ✅
+- Facebook ⌛  
+- Instagram ⌛ 
+- Gmail⌛      
+- TikTok ⌛    
 
 
