@@ -7,8 +7,10 @@
 - First download Gophish:
 
       git clone https://git.securityops.co/cristiancmoises/gophish
+      cd gophish
+      go build
+      ./gophish
 
-- Run ./gophish
 - Default user: admin
 - Get password from the logs
 
