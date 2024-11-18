@@ -6,25 +6,28 @@
 ### Running
 - First download Gophish:
 
-                      git clone https://git.securityops.co/cristiancmoises/gophish
+      git clone https://git.securityops.co/cristiancmoises/gophish
 
 - Run ./gophish
 - Default user: admin
 - Get password from the logs
 
-- Download the repo:                
+- Download the repo:   
              
-                      git clone https://git.securityops.co/cristiancmoises/phisha
-
+      git clone https://git.securityops.co/cristiancmoises/phisha
+  
+- Select a template 
+- Copy the html and paste into the Landing Page
+- Copy the email template
+- Remember to check the E-mail and Subject
+  
   ### Custom Templates
 
-| Templates  |
-|------------|
-| Microsoft  |
-| LinkedIn   |
-| Facebook   |
-| Instagram  |
-| Gmail      |
-| TikTok     |
+- Microsoft  
+- LinkedIn   
+- Facebook   
+- Instagram  
+- Gmail      
+- TikTok     
 
 
